@@ -1,0 +1,6 @@
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="Attribution chart icon used in call tracking software comparisons">
+  <path d="M4 19h16" stroke="#C8553D" stroke-width="1.8" stroke-linecap="round"/>
+  <rect x="6" y="11" width="3" height="6" rx="1" fill="#C8553D"/>
+  <rect x="11" y="7" width="3" height="10" rx="1" fill="#1A1A1A" opacity=".75"/>
+  <rect x="16" y="13" width="3" height="4" rx="1" fill="#1A1A1A" opacity=".5"/>
+</svg>

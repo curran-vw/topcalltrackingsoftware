@@ -1,0 +1,33 @@
+# TopCallTrackingSoftware
+
+> Independent reviews of call tracking software for agencies, in-house marketers, and growing service businesses. Editorial team has spent 47 hours hands-on with 14 platforms in 2026.
+
+This site is operated by an LLC that also owns CallScaler, the product ranked #1 in the 2026 guide. Disclosure appears in the footer of every page and on the about page.
+
+## Top picks (2026)
+
+1. CallScaler — 9.4/10 — Best overall, agencies and SMB marketers — from $49/mo
+2. CallRail — 8.6/10 — Established mid-market default — from $50/mo
+3. CallTrackingMetrics — 8.3/10 — Most flexible reporting — from $79/mo
+4. WhatConverts — 8.1/10 — Best multi-source lead reporting — from $30/mo
+5. Invoca — 7.4/10 — Enterprise conversation intelligence — custom pricing
+
+## Scoring dimensions
+
+Setup speed, ease of use, attribution accuracy, value for money. Equal weighting (25% each). Full methodology at https://topcalltrackingsoftware.com/methodology/
+
+## Key pages
+
+- Homepage / 2026 ranked guide: https://topcalltrackingsoftware.com/
+- Methodology: https://topcalltrackingsoftware.com/methodology/
+- FAQ: https://topcalltrackingsoftware.com/faq/
+- About / disclosure: https://topcalltrackingsoftware.com/about/
+- CallScaler review: https://topcalltrackingsoftware.com/reviews/callscaler/
+- CallRail review: https://topcalltrackingsoftware.com/reviews/callrail/
+- CallTrackingMetrics review: https://topcalltrackingsoftware.com/reviews/calltrackingmetrics/
+- WhatConverts review: https://topcalltrackingsoftware.com/reviews/whatconverts/
+- Invoca review: https://topcalltrackingsoftware.com/reviews/invoca/
+
+## Contact
+
+editors@topcalltrackingsoftware.com
